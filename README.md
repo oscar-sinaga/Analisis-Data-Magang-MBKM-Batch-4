@@ -1,3 +1,6 @@
+	![](logo_kampus_merdeka.jpg)
+  ![](logo_kemdikbud.jpg)
+
 # Analisis-Data-Magang-MBKM-Batch-4
 Dalam analisis data MBKM ini, saya akan mengolah data dan menganalisis data lowongan magang MBKM dari website Kampus Merdeka. Tahapan dari pengambilan dan pengolahan datanya sebagai berikut:
 
