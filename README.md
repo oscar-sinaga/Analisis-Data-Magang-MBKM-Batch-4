@@ -9,4 +9,4 @@ Dalam analisis data MBKM ini, saya akan mengolah data dan menganalisis data lowo
 
 2. Cleaning and Transforming : Setelah data dikumpulkan, kemudian saya mentransformasi dan membersihkan data dengan bahasa pemrograman Python agar nantinya dapat diolah dengan mudah di Tableau serta data kab/kota dan provinsi nya dapat dijoin dengan data geospatial.  Kodingan Pythonnya dapat dilihat di sini: https://github.com/oscar-sinaga/Analisis-Data-Magang-MBKM-Batch-4/blob/master/Analisis%20Data%20Lowongan%20Magang%20MBKM%20Batch%204.ipynb
 
-3. Tableau : Disini saya melakukan pengolahan dan analisis data lebih lanjut, seperti yang dilihat pada slide selanjutnya.
+3. Tableau : Disini saya melakukan pengolahan dan analisis data lebih lanjut, seperti bisa dilihat pada : https://public.tableau.com/views/AnalisisDataLowonganMagangMBKMBatch4Data16Januari2023/AnalisisDataLowonganMagangMBKMBatch4Data16Januari2023?:language=en-US&:display_count=n&:origin=viz_share_link.
