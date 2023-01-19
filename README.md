@@ -20,4 +20,4 @@ Kab/Kot dari link : https://geodata.ucdavis.edu/gadm/gadm4.1/json/gadm41_IDN_2.j
 
 2. Cleaning and Transforming : Setelah data dikumpulkan, kemudian saya mentransformasi dan membersihkan data dengan bahasa pemrograman Python agar nantinya dapat diolah dengan mudah di Tableau serta data kab/kota dan provinsi nya dapat dijoin dengan data geospatial.  Kodingan Pythonnya dapat dilihat di sini: https://github.com/oscar-sinaga/Analisis-Data-Magang-MBKM-Batch-4/blob/master/Analisis%20Data%20Lowongan%20Magang%20MBKM%20Batch%204.ipynb
 
-3. Tableau : Disini saya melakukan pengolahan dan analisis data lebih lanjut, seperti yang dilihat pada slide selanjutnya.
+3. Tableau : Disini saya melakukan pengolahan dan analisis data lebih lanjut, seperti yang dilihat pada : https://lnkd.in/gxDi4rZr.
